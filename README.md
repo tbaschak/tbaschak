@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a little bit of golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  - https://twitter.com/TheodoreBaschak
+  - https://infosec.exchange/@theo
 
 <!---
 tbaschak/tbaschak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
